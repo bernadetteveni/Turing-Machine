@@ -1,9 +1,6 @@
 //
 //  DoubleLinkedList.cpp
-//  CS210Assignment3
-//
 //  Bernadette Veninata
-//  200259971
 
 #include "DoubleLinkedList.h"
 
