@@ -1,10 +1,8 @@
 //
 //  DoubleLinkedList.h
-//  CS210Assignment3
-//
 //  Bernadette Veninata
-//  200259971
-//The tape declared as a variable of a doubly-linked list type defined as a C++ class "DoubleLinkedList", where each node corresponds to one cell on the tape.
+//
+// The tape declared as a variable of a doubly-linked list type defined as a C++ class "DoubleLinkedList", where each node corresponds to one cell on the tape.
 
 #ifndef DoubleLinkedList_h
 #define DoubleLinkedList_h
