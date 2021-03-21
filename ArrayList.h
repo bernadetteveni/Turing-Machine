@@ -1,11 +1,8 @@
 //
 //  ArrayList.h
-//  CS210Assignment3
-//
 //  Bernadette Veninata
-//  200259971
 //
-//The action table declared as a variable of an array-based list type defined as a C++ class "ArrayList", where each item corresponds to a struct "Command" consisting of five members corresponding to: (1) the current state, (2) the symbol read from the tape, (3) the next state, (4) the symbol to be written to the tape, and (5) the direction to move the read/write pointer, respectively.
+// The action table declared as a variable of an array-based list type defined as a C++ class "ArrayList", where each item corresponds to a struct "Command" consisting of five members corresponding to: (1) the current state, (2) the symbol read from the tape, (3) the next state, (4) the symbol to be written to the tape, and (5) the direction to move the read/write pointer, respectively.
 
 #ifndef ArrayList_h
 #define ArrayList_h
